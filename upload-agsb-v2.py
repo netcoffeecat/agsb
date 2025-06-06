@@ -31,7 +31,7 @@ DEBUG_LOG = INSTALL_DIR / "python_debug.log"
 CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的域名
 
 # ====== 全局可配置参数（可直接在此处修改） ======
-USER_NAME = "kkddytd"         # 用户名
+USER_NAME = "netcoffeecat"         # 用户名
 UUID = "1cd92d6f-c8e5-4e5b-932e-234335fc1353"                     # UUID，留空则自动生成
 PORT = 13980                   # Vmess端口，留空或0则自动生成
 DOMAIN = "free.testlrj.ddns-ip.net"                   # 域名，留空则自动获取
