@@ -35,7 +35,7 @@ USER_NAME = "netcoffeecat"         # 用户名
 UUID = "1cd92d6f-c8e5-4e5b-932e-234335fc1353"                     # UUID，留空则自动生成
 PORT = 13980                   # Vmess端口，留空或0则自动生成
 DOMAIN = "free.testlrj.ddns-ip.net"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiODBmMjY5ZmQ1N2QzNzNiMmMzZTBkODc4ODg1NWM5MzIiLCJ0IjoiZmVhMzBmODUtOGY5OC00ZTVmLTkyZTktMmU2OTk2M2E1YzUyIiwicyI6Ik4yTmlZemxpTlRjdE5UVm1PQzAwTjJZekxXRmpORGt0TVdVNE5HUmtORGN3TldObSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = "eyJhIjoiYmI0YzgxZjY0MjBkMzk1ZDlhNzJkYjM4ZjQyYjA5OTciLCJ0IjoiN2FiMzA1MTgtOGI4Ny00NDA3LTlhMDktYzE1ODYyMmZlMDIwIiwicyI6IlkyUmhNV1U1T1dZdE1tSm1ZUzAwTUdFeUxXRXpOV0l0TXprMlltSmtaRGhpWXpCaiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
