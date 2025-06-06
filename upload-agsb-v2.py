@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "netcoffeecat"         # 用户名
 UUID = "1cd92d6f-c8e5-4e5b-932e-234335fc1353"                     # UUID，留空则自动生成
 PORT = 13980                   # Vmess端口，留空或0则自动生成
-DOMAIN = "free.testlrj.ddns-ip.net"                   # 域名，留空则自动获取
+DOMAIN = "https://agsb.tangning.dpdns.org/"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiYmI0YzgxZjY0MjBkMzk1ZDlhNzJkYjM4ZjQyYjA5OTciLCJ0IjoiN2FiMzA1MTgtOGI4Ny00NDA3LTlhMDktYzE1ODYyMmZlMDIwIiwicyI6IlkyUmhNV1U1T1dZdE1tSm1ZUzAwTUdFeUxXRXpOV0l0TXprMlltSmtaRGhpWXpCaiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
